@@ -247,3 +247,4 @@
         this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
         this.pictureBox4.TabIndex = 43;
         this.pictureBox4.TabStop = false;
+          // 
