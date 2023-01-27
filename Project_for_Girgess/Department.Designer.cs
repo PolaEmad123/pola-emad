@@ -64,5 +64,5 @@
         // label8
         //
         this.label8.AutoSize = true;
-    
+        this.label8.BackColor = System.Drawing.Color.Teal;
   
