@@ -209,3 +209,4 @@
         // label3
         //
         this.label3.AutoSize = true;
+        this.label3.BackColor = System.Drawing.Color.White;
