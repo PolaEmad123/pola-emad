@@ -162,3 +162,5 @@
         //
         // label2
         // 
+        this.label2.AutoSize = true;
+          
