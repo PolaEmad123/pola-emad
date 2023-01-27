@@ -83,3 +83,4 @@
         this.AddBtn.Location = new System.Drawing.Point(12, 225);
         this.AddBtn.Name = "AddBtn";
         this.AddBtn.Size = new System.Drawing.Size(82, 33);
+        this.AddBtn.TabIndex = 38;
