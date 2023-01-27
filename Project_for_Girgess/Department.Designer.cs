@@ -3,7 +3,7 @@
      partial class Department
 {
      /// <summary>
+    /// Required designer variable.
 
 
 
-    
