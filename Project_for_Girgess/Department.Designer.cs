@@ -105,3 +105,4 @@
         // DeptList
         // 
         dataGridViewCellStyle1.BackColor = System.Drawing.Color.White;
+        this.DeptList.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
