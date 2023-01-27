@@ -225,3 +225,4 @@
         this.pictureBox2.Name = "pictureBox2";
         this.pictureBox2.Size = new System.Drawing.Size(41, 25);
         this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+        this.pictureBox2.TabIndex = 41;
