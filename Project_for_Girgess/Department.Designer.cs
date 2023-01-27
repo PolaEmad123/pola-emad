@@ -2,8 +2,9 @@
 {
      partial class Department
 {
-     /// <summary>
-     /// Required designer variable.
-     /// </summary>
+    /// <summary>
+    /// Required designer variable.
+    /// </summary>
+    private System.ComponentModel.IContainer components = null;
 
 
