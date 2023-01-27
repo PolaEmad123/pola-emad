@@ -241,3 +241,4 @@
         // pictureBox4
         // 
         this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
+        this.pictureBox4.Location = new System.Drawing.Point(498, 65);
