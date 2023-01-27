@@ -177,3 +177,4 @@
         //
         this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
         this.pictureBox1.Location = new System.Drawing.Point(12, 65);
+        this.pictureBox1.Name = "pictureBox1";
