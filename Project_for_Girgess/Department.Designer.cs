@@ -206,3 +206,5 @@
         this.panel1.Size = new System.Drawing.Size(920, 59);
         this.panel1.TabIndex = 22;
         //
+        // label3
+        //
