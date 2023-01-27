@@ -384,3 +384,4 @@
         private System.Windows.Forms.Button DeleteBtn;
     }
 }
+// finish the code cs
