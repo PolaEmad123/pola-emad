@@ -182,6 +182,7 @@
         this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
         this.pictureBox1.TabIndex = 24;
         this.pictureBox1.TabStop = false;
-           // 
-           // label1
-           // 
+        // 
+        // label1
+        // 
+        this.label1.AutoSize = true;
