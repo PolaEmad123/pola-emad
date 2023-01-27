@@ -183,3 +183,5 @@
         this.pictureBox1.TabIndex = 24;
         this.pictureBox1.TabStop = false;
            // 
+           // label1
+           // 
