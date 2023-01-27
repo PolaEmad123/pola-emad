@@ -76,3 +76,4 @@
         // 
         // AddBtn
         //
+        this.AddBtn.BackColor = System.Drawing.Color.Teal;
