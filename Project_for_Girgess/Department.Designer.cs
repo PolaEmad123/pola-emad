@@ -248,3 +248,5 @@
         this.pictureBox4.TabIndex = 43;
         this.pictureBox4.TabStop = false;
           // 
+          // pictureBox5
+          // 
