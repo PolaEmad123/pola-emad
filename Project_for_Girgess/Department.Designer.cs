@@ -73,5 +73,7 @@
         this.label8.Size = new System.Drawing.Size(351, 22);
         this.label8.TabIndex = 22;
         this.label8.Text = "Employee System Managment Version 1.0";
-           // 
-           // EditBtn
+        // 
+        // EditBtn
+        // 
+        this.EditBtn.BackColor = System.Drawing.Color.Teal;
