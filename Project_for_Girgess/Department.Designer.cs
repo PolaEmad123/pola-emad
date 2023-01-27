@@ -244,3 +244,4 @@
         this.pictureBox4.Location = new System.Drawing.Point(498, 65);
         this.pictureBox4.Name = "pictureBox4";
         this.pictureBox4.Size = new System.Drawing.Size(41, 25);
+        this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
