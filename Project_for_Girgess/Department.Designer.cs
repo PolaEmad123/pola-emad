@@ -218,3 +218,5 @@
         this.label3.TabIndex = 40;
         this.label3.Text = " Department List";
         //
+        // pictureBox2
+        // 
