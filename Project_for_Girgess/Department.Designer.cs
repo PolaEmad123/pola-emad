@@ -37,3 +37,4 @@
         this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
         this.EditBtn = new System.Windows.Forms.Button();
         this.DeptList = new Guna.UI2.WinForms.Guna2DataGridView();
+        this.DeptName = new System.Windows.Forms.TextBox();
