@@ -33,3 +33,4 @@
         System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
         System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Department));
         this.label8 = new System.Windows.Forms.Label();
+        this.AddBtn = new System.Windows.Forms.Button();
