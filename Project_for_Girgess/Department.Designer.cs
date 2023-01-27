@@ -95,3 +95,4 @@
         this.EditBtn.Font = new System.Drawing.Font("Rockwell", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
         this.EditBtn.ForeColor = System.Drawing.Color.BlanchedAlmond;
         this.EditBtn.Location = new System.Drawing.Point(129, 225);
+        this.EditBtn.Name = "EditBtn";
