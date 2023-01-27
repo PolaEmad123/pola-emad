@@ -168,3 +168,4 @@
         this.label2.ForeColor = System.Drawing.Color.Teal;
         this.label2.Location = new System.Drawing.Point(13, 156);
         this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+        this.label2.Name = "label2";
