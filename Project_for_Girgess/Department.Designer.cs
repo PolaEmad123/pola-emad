@@ -208,3 +208,4 @@
         //
         // label3
         //
+        this.label3.AutoSize = true;
