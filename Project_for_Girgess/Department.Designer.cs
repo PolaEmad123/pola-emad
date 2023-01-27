@@ -104,3 +104,4 @@
         //
         // DeptList
         // 
+        dataGridViewCellStyle1.BackColor = System.Drawing.Color.White;
