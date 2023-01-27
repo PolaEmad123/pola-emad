@@ -191,3 +191,4 @@
         this.label1.ForeColor = System.Drawing.Color.Teal;
         this.label1.Location = new System.Drawing.Point(373, 121);
         this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+        this.label1.Name = "label1";
