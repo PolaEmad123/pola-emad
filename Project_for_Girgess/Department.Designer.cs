@@ -97,3 +97,4 @@
         this.EditBtn.Location = new System.Drawing.Point(129, 225);
         this.EditBtn.Name = "EditBtn";
         this.EditBtn.Size = new System.Drawing.Size(82, 33);
+        this.EditBtn.TabIndex = 39;
