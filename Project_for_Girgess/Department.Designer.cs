@@ -72,3 +72,4 @@
         this.label8.Name = "label8";
         this.label8.Size = new System.Drawing.Size(351, 22);
         this.label8.TabIndex = 22;
+        this.label8.Text = "Employee System Managment Version 1.0";
