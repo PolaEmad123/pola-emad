@@ -42,3 +42,4 @@
         this.pictureBox1 = new System.Windows.Forms.PictureBox();
         this.label1 = new System.Windows.Forms.Label();
         this.panel1 = new System.Windows.Forms.Panel();
+        this.label3 = new System.Windows.Forms.Label();
