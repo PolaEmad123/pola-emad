@@ -68,3 +68,4 @@
         this.label8.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
         this.label8.ForeColor = System.Drawing.SystemColors.Control;
         this.label8.Location = new System.Drawing.Point(290, 25);
+        this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
