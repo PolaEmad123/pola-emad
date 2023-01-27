@@ -84,3 +84,4 @@
         this.AddBtn.Name = "AddBtn";
         this.AddBtn.Size = new System.Drawing.Size(82, 33);
         this.AddBtn.TabIndex = 38;
+        this.AddBtn.Text = "Add";
