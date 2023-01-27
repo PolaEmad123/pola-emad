@@ -74,3 +74,4 @@
         this.label8.TabIndex = 22;
         this.label8.Text = "Employee System Managment Version 1.0";
            // 
+           // EditBtn
