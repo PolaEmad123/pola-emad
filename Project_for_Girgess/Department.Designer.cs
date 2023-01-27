@@ -172,3 +172,4 @@
         this.label2.Size = new System.Drawing.Size(118, 19);
         this.label2.TabIndex = 25;
         this.label2.Text = "Employee Name";
+        //
