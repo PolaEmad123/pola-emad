@@ -60,6 +60,9 @@
         ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
         ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
         this.SuspendLayout();
-            // 
-            // label8
-            //
+        // 
+        // label8
+        //
+        this.label8.AutoSize = true;
+    
+  
