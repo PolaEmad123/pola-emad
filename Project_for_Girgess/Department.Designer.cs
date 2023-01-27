@@ -35,3 +35,4 @@
         this.label8 = new System.Windows.Forms.Label();
         this.AddBtn = new System.Windows.Forms.Button();
         this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
+        this.EditBtn = new System.Windows.Forms.Button();
