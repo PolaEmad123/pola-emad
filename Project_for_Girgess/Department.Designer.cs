@@ -50,3 +50,4 @@
         this.EmpPage = new System.Windows.Forms.Label();
         this.label4 = new System.Windows.Forms.Label();
         this.label5 = new System.Windows.Forms.Label();
+        this.label6 = new System.Windows.Forms.Label();
