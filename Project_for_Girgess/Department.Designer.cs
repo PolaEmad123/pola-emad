@@ -57,3 +57,4 @@
         this.panel1.SuspendLayout();
         ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
         ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+        ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
