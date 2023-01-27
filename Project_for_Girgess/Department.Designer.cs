@@ -93,4 +93,4 @@
         this.EditBtn.BackColor = System.Drawing.Color.Teal;
         this.EditBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
         this.EditBtn.Font = new System.Drawing.Font("Rockwell", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-        
+        this.EditBtn.ForeColor = System.Drawing.Color.BlanchedAlmond;
