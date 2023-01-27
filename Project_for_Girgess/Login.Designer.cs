@@ -1,4 +1,4 @@
-﻿namespace Project_for_Girgess
+﻿namespace Project_pola_emad
 {
     partial class Login
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Project_for_Girgess
+namespace Project_pola_emad
 {
     internal static class Program
     {

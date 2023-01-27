@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Project_for_Girgess.Properties
+namespace Project_pola_emad.Properties
 {
 
 
