@@ -45,3 +45,4 @@
         this.label3 = new System.Windows.Forms.Label();
         this.pictureBox2 = new System.Windows.Forms.PictureBox();
         this.pictureBox3 = new System.Windows.Forms.PictureBox();
+        this.pictureBox4 = new System.Windows.Forms.PictureBox();
