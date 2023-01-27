@@ -60,3 +60,4 @@
         ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
         this.SuspendLayout();
             // 
+            // label8
