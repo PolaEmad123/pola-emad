@@ -163,4 +163,4 @@
         // label2
         // 
         this.label2.AutoSize = true;
-          
+        this.label2.BackColor = System.Drawing.Color.White;
