@@ -186,3 +186,4 @@
         // label1
         // 
         this.label1.AutoSize = true;
+        this.label1.BackColor = System.Drawing.Color.White;
