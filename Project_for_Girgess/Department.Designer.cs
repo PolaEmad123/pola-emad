@@ -196,3 +196,5 @@
         this.label1.TabIndex = 23;
         this.label1.Text = "Manage Department";
           // 
+          // panel1
+          // 
