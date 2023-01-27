@@ -91,4 +91,4 @@
         // EditBtn
         // 
         this.EditBtn.BackColor = System.Drawing.Color.Teal;
-          
+        this.EditBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
