@@ -228,3 +228,5 @@
         this.pictureBox2.TabIndex = 41;
         this.pictureBox2.TabStop = false;
         //
+        // pictureBox3
+        // 
