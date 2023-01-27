@@ -65,4 +65,5 @@
         //
         this.label8.AutoSize = true;
         this.label8.BackColor = System.Drawing.Color.Teal;
-  
+        this.label8.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+      
