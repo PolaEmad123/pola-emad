@@ -78,5 +78,6 @@
         //
         this.AddBtn.BackColor = System.Drawing.Color.Teal;
         this.AddBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-          this.AddBtn.Font = new System.Drawing.Font("Rockwell", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.AddBtn.ForeColor = System.Drawing.Color.BlanchedAlmond;
+        this.AddBtn.Font = new System.Drawing.Font("Rockwell", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+        this.AddBtn.ForeColor = System.Drawing.Color.BlanchedAlmond;
+        this.AddBtn.Location = new System.Drawing.Point(12, 225);
