@@ -160,3 +160,5 @@
         this.DeptName.Size = new System.Drawing.Size(199, 20);
         this.DeptName.TabIndex = 26;
         //
+        // label2
+        // 
