@@ -158,3 +158,4 @@
         this.DeptName.Location = new System.Drawing.Point(12, 187);
         this.DeptName.Name = "DeptName";
         this.DeptName.Size = new System.Drawing.Size(199, 20);
+        this.DeptName.TabIndex = 26;
