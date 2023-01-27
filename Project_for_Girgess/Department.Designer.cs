@@ -48,3 +48,4 @@
         this.pictureBox4 = new System.Windows.Forms.PictureBox();
         this.pictureBox5 = new System.Windows.Forms.PictureBox();
         this.EmpPage = new System.Windows.Forms.Label();
+        this.label4 = new System.Windows.Forms.Label();
