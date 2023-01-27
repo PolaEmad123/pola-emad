@@ -99,3 +99,4 @@
         this.EditBtn.Size = new System.Drawing.Size(82, 33);
         this.EditBtn.TabIndex = 39;
         this.EditBtn.Text = "Update";
+        this.EditBtn.UseVisualStyleBackColor = false;
