@@ -156,3 +156,4 @@
         // DeptName
         // 
         this.DeptName.Location = new System.Drawing.Point(12, 187);
+        this.DeptName.Name = "DeptName";
