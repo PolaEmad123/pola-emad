@@ -98,3 +98,4 @@
         this.EditBtn.Name = "EditBtn";
         this.EditBtn.Size = new System.Drawing.Size(82, 33);
         this.EditBtn.TabIndex = 39;
+        this.EditBtn.Text = "Update";
