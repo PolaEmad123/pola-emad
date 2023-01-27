@@ -69,3 +69,4 @@
         this.label8.ForeColor = System.Drawing.SystemColors.Control;
         this.label8.Location = new System.Drawing.Point(290, 25);
         this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+        this.label8.Name = "label8";
