@@ -173,3 +173,5 @@
         this.label2.TabIndex = 25;
         this.label2.Text = "Employee Name";
         //
+        // pictureBox1
+        //
