@@ -77,3 +77,4 @@
         // AddBtn
         //
         this.AddBtn.BackColor = System.Drawing.Color.Teal;
+        this.AddBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
