@@ -231,3 +231,4 @@
         // pictureBox3
         // 
         this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
+        this.pictureBox3.Location = new System.Drawing.Point(255, 65);
