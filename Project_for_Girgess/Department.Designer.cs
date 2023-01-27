@@ -155,3 +155,4 @@
         //
         // DeptName
         // 
+        this.DeptName.Location = new System.Drawing.Point(12, 187);
