@@ -220,3 +220,4 @@
         //
         // pictureBox2
         // 
+        this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
