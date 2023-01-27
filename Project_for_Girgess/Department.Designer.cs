@@ -40,3 +40,4 @@
         this.DeptName = new System.Windows.Forms.TextBox();
         this.label2 = new System.Windows.Forms.Label();
         this.pictureBox1 = new System.Windows.Forms.PictureBox();
+        this.label1 = new System.Windows.Forms.Label();
