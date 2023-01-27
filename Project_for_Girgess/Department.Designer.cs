@@ -90,3 +90,5 @@
         //
         // EditBtn
         // 
+        this.EditBtn.BackColor = System.Drawing.Color.Teal;
+          
