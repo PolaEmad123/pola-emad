@@ -100,3 +100,4 @@
         this.EditBtn.TabIndex = 39;
         this.EditBtn.Text = "Update";
         this.EditBtn.UseVisualStyleBackColor = false;
+        this.EditBtn.Click += new System.EventHandler(this.EditBtn_Click);
