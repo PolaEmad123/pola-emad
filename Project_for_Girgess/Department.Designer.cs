@@ -71,3 +71,4 @@
         this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
         this.label8.Name = "label8";
         this.label8.Size = new System.Drawing.Size(351, 22);
+        this.label8.TabIndex = 22;
