@@ -190,3 +190,4 @@
         this.label1.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
         this.label1.ForeColor = System.Drawing.Color.Teal;
         this.label1.Location = new System.Drawing.Point(373, 121);
+        this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
