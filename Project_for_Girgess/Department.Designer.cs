@@ -1,1 +1,7 @@
-﻿namespace Project_pola emad fgh
+﻿namespace Project_pola emad 
+{
+     partial class Department
+
+
+
+    
